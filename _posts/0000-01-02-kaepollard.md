@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use left arrow to go back!
+"This is going to be helpful to learn how to work together"
